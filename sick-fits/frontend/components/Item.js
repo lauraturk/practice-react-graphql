@@ -31,7 +31,7 @@ export default class Item extends Component {
                         pathname: 'update',
                         query: { id: item.id }
                     }}>
-                        <a>Edit</a>
+                        <a>Edit ✏️</a>
                         <button>Add to Cart</button>
                         <button>delete</button>
                     </Link>
